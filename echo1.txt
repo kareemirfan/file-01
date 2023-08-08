@@ -1,0 +1,4 @@
+when am using echo "hello am newline">file3
+it showing output in single line
+using echo"hello am newline">> file4 
+the same output showing in twolines.....the reason was we are using ">" symbol two times for file4
